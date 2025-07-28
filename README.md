@@ -1,2 +1,2 @@
 # Lambda_Function
-One of the most essential Pytho Functions is Lambda.
+One of the most essential Python Functions is Lambda.
